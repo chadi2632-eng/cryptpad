@@ -1,5 +1,5 @@
 
-# Cryptpad CTF Writeup
+# Cryptpad CTF Write-up
 
 ## Introduction
 Hey everyone 👋  
